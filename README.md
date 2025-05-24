@@ -1,6 +1,6 @@
 # Metasploit-for-reconnaissance
-## Name: Shanmuga Raj.K
-## Reg no: 212223040192
+## Name: Vineela Shaik
+## Reg no: 212223040243
 # Metasploit
 Metasploit for reconnaissance in pentesting
 # AIM:
